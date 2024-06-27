@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525926363432",
+    "project_id": "stodo-8022d",
+    "storage_bucket": "stodo-8022d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525926363432:android:e1f1175d0418982ffd601d",
+        "android_client_info": {
+          "package_name": "com.sakthi.stodo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWstIC5qkEcAQ_mp3Sdq65zY36trE2dFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
